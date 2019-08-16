@@ -18,9 +18,9 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-git push -f git@github.jack-94/jack-94.github.io.git master
+# git push -f git@github.jack-94/jack-94.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:jack-94/vuepress-blog.git master:gh-pages
+git push -f git@github.com:jack-94/vuepress-blog.git master:gh-pages
 
 cd -

@@ -5,7 +5,7 @@
   "description": "健强的博客尝试",
   "icons": [{
     "src": "/avatar.jpg",
-    "sizes": "48x48",
+    "sizes": "18x18",
     "type": "image/png"
   }],
   "display": "standalone",
