@@ -72,7 +72,7 @@ this is a tip
 
 [[toc]]
 
-
+哈哈哈哈哈哈，在github上就可以更新文章了，哈哈哈哈哈哈
 
 ``` js{4}
 export default {
