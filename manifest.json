@@ -1,0 +1,13 @@
+{
+  "name": "健强的博客小站",
+  "short_name": "健强",
+  "description": "健强的博客尝试",
+  "icons": [{
+    "src": "/avatar.jpg",
+    "type": "image/png",
+    "sizes": "144x144"
+  }],
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "start_url": "index.html"
+}
